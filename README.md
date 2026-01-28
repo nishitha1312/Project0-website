@@ -9,7 +9,7 @@ clean UI design and structured content.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **HTML5**
 - **CSS3 / SCSS**
@@ -19,7 +19,7 @@ clean UI design and structured content.
 
 ---
 
-## 🌐 Pages Included
+## Pages Included
 
 - `index.html` – Overview of the Four Elements and their symbolism  
 - `FIRE(agni).html` – Fire element symbolism  
@@ -29,7 +29,7 @@ clean UI design and structured content.
 
 ---
 
-## ✨ Features
+## Features
 
 - Responsive navigation bar using Bootstrap
 - Structured semantic HTML layout
@@ -43,7 +43,7 @@ clean UI design and structured content.
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 1. Clone or download the repository
 2. Open `index.html` in any modern web browser
@@ -53,14 +53,14 @@ _No additional setup required._
 
 ---
 
-## 📚 Concept Background
+## Concept Background
 
 The website is based on ancient philosophical views that describe the physical world as being composed of four fundamental elements.  
 Each element is associated with specific qualities and plays a role in maintaining balance in nature and human well-being.
 
 ---
 
-## 📌 Notes
+## Notes
 
 - This project is built as a **static website**
 - No backend or database integration
@@ -68,7 +68,7 @@ Each element is associated with specific qualities and plays a role in maintaini
 
 ---
 
-## 👤 Author
+## Author
 
 **Sai Nishitha Muraharisetty**
 
